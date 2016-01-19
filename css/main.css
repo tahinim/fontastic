@@ -35,3 +35,28 @@ width: 100%;
 i {
   font-size: 8em;
 }
+
+.food {
+  text-align: center;
+}
+
+.smile {
+  text-align: center;
+  font-size: 2em;
+}
+
+.icon-burger:hover {
+  color: yellow;
+}
+
+.icon-donut-01:hover {
+  color: pink;
+}
+
+.icon-hotdog-01:hover {
+  color: red;
+}
+
+.icon-smile-o:hover {
+  background-image: url(/images/yum.svg) ;
+}
